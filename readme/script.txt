@@ -7,7 +7,7 @@ Frontend Project Git
 https://github.com/Kicks-Me/full-stack-frontend-1.git
 
 
-Document & database
+Document & Video & database
 Visit in backend project/readme
 ./script.txt
 ./db_full_stack.sql
